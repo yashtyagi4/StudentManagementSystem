@@ -129,6 +129,11 @@ public class NewUser extends javax.swing.JFrame {
         txtUtype.setFont(new java.awt.Font("Futura", 0, 16)); // NOI18N
         txtUtype.setForeground(new java.awt.Color(0, 0, 0));
         txtUtype.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "User", "Admin" }));
+        txtUtype.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txtUtypeActionPerformed(evt);
+            }
+        });
 
         jButton1.setBackground(new java.awt.Color(0, 0, 0));
         jButton1.setFont(new java.awt.Font("Futura", 1, 16)); // NOI18N
@@ -287,6 +292,10 @@ public class NewUser extends javax.swing.JFrame {
             
         }
     }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void txtUtypeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtUtypeActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txtUtypeActionPerformed
 
     /**
      * @param args the command line arguments
