@@ -1,4 +1,5 @@
-![Screen Shot 2022-09-24 at 8 30 59 PM](https://user-images.githubusercontent.com/85970478/192124469-f3ab1d98-67d2-4ffe-beaa-ed09255e03fb.png)
+![Screen Shot 2022-09-24 at 11 54 40 PM](https://user-images.githubusercontent.com/85970478/192128964-d33881de-6766-43f2-a2d0-3cfc5b4999e1.png)
+
 # 
  - A student information management system designed by utilizing Java Swing and MySQL. 
  - It is designed as a menu-driven interactive portal to manage, access and perform CRUD operations on student database. 
